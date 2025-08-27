@@ -9,4 +9,14 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r}
+1+1
+```
 
+#titles for each chunk of code
+#descriptions for each chunk of code or extra info
+#possible next steps
+
+```{r}
+
+```
